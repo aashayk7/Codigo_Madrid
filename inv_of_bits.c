@@ -4,7 +4,7 @@ int main()
 {
 	int n,p,w;// n is the number,p the position,w the width;
 	scanf(" %d %d %d",&n,&p,&w);
-	int hl,ll;//hl is the right most bit and ll is the left most
+	int hl,ll;//hl is the right most bit and ll is the left most bit
 	hl=p;
 	ll=p-w+1;
 	int q=1;
