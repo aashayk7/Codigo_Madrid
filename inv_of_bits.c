@@ -8,7 +8,7 @@ int main()
 	hl=p;
 	ll=p-w+1;
 	int q=1;
-	int e=ll-1;//e is the number of times q needs to be left shifted initially 
+	int e=ll-1;//e is the number of times q needs to be left shifted
 	q=q<<e;
 	int i=ll;
 	int t;
